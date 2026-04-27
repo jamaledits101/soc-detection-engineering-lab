@@ -1,0 +1,6 @@
+docs/architecture/.gitkeep
+docs/rules/.gitkeep
+docs/playbooks/.gitkeep
+configs/wazuh/.gitkeep
+configs/shuffle/.gitkeep
+detections/.gitkeep
