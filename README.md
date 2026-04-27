@@ -30,6 +30,10 @@ This lab simulates a real-world SOC pipeline to practice detection engineering, 
 - [ ] Phase 3 — Shuffle SOAR integration
 - [ ] Phase 4 — Custom detection rules + attack simulation
 
-## Detection Write-ups
-*Coming soon — each detection will document the technique, 
-log source, rule logic, and proof of firing.*
+# Detections
+Each detection is organized by MITRE ATT&CK tactic.
+Folders are created as detections are written.
+
+| Detection | Tactic | Status |
+|---|---|---|
+| Coming soon | — | — |
