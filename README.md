@@ -18,7 +18,7 @@ This lab simulates a real-world SOC pipeline to practice detection engineering, 
 | Shuffle | SOAR / automation | Vultr cloud VM |
 | TheHive + Cortex | Case management / enrichment | Vultr cloud VM |
 | Windows 10 VM | Victim endpoint | Local (VMware) |
-| Atomic Red Team | Attack simulation | Local (VirtualBox) |
+| Atomic Red Team | Attack simulation | Local (VMware) |
 
 ## Architecture
 ![Lab Architecture](docs/architecture/lab-architecture-v1.png)
