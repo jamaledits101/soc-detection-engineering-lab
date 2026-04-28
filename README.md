@@ -17,7 +17,7 @@ This lab simulates a real-world SOC pipeline to practice detection engineering, 
 | Wazuh | SIEM / log collection | Vultr cloud VM |
 | Shuffle | SOAR / automation | Vultr cloud VM |
 | TheHive + Cortex | Case management / enrichment | Vultr cloud VM |
-| Windows 10 VM | Victim endpoint | Local (VirtualBox) |
+| Windows 10 VM | Victim endpoint | Local (VMware) |
 | Atomic Red Team | Attack simulation | Local (VirtualBox) |
 
 ## Architecture
